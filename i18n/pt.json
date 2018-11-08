@@ -1,0 +1,8 @@
+{
+    "slashcommand_params": "[ssldetails]",
+    "command_description": "Interage com o Cloudflare",
+    "user_alias_label": "Nome de usuário",
+    "user_alias_description": "The username alias that will be shown in the messages sent by this app",
+    "user_avatar_label": "Imagem",
+    "user_avatar_description": "The user avatar that will be shown in the messages sent by this app"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "b355b8cb-ef10-4fff-a721-ff1f041d989c",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.2.1",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rodrigo Nascimento",
+        "homepage": "rocket.chat",
+        "support": "rocket.chat"
+    },
+    "name": "cloudflare",
+    "nameSlug": "cloudflare",
+    "classFile": "CloudflareApp.ts",
+    "description": "Control cloudflare"
+}
